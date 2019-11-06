@@ -34,14 +34,6 @@ Algorithm fight can also lead to beautiful fights. See an exemple in video by cl
 
 [![Watch the video](https://i.ytimg.com/vi/UcGA-NssVWs/2.jpg)](https://youtu.be/UcGA-NssVWs)
 
-## Prerequisites
-
-`brew install SDL2`
-
-`brew install SDL2_ttf`
-
-If brew isn't installed, compile the project with the sources (don't forget to change the Makefile).
-
 ## Installation
 
 `make`
